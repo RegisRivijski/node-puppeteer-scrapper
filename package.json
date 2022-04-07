@@ -1,0 +1,17 @@
+{
+  "name": "prom-ua-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Petrov Leonidovich",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "config": "^3.3.7",
+    "puppeteer": "^13.5.2"
+  }
+}
